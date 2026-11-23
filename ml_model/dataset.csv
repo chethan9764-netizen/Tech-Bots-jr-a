@@ -1,0 +1,31 @@
+description,category
+Car collision reported on highway,road_accident
+Two cars crashed near the junction,road_accident
+Motorcycle accident reported on main road,road_accident
+Vehicle overturned on the road,road_accident
+Pedestrian injured in a road accident,road_accident
+Truck collided with a car,road_accident
+Multiple vehicles involved in a collision,road_accident
+Bike skid accident reported,road_accident
+Person experiencing breathing difficulty,medical_emergency
+Person suddenly fainted at home,medical_emergency
+Patient experiencing chest discomfort,medical_emergency
+Person needs urgent medical assistance,medical_emergency
+Patient has suffered a serious fall,medical_emergency
+Person having a severe allergic reaction,medical_emergency
+Person feeling extremely unwell,medical_emergency
+Patient needs emergency medical transport,medical_emergency
+Fire reported in a residential building,fire_emergency
+Smoke coming from a commercial building,fire_emergency
+Fire reported near a fuel storage area,fire_emergency
+Kitchen fire reported in a house,fire_emergency
+Vehicle caught fire on the highway,fire_emergency
+Fire spreading in a warehouse,fire_emergency
+Electrical fire reported in an office,fire_emergency
+Flames seen in a residential area,fire_emergency
+Flood water entering residential houses,other_emergency
+Tree fallen and blocking the road,other_emergency
+Building damaged after a storm,other_emergency
+Emergency assistance requested after flooding,other_emergency
+Road blocked due to fallen debris,other_emergency
+Person trapped inside a damaged building,other_emergency
